@@ -1,0 +1,12 @@
+*
+!/**/
+!*.*
+!requirements.txt
+!license
+!*.md
+!**/launch.json
+!**/settings.json
+**/.vs/**
+**/.vscode/*.*
+__pycache__
+.pytest_cache
